@@ -1,3 +1,6 @@
+## Contacts 
+For questions or suggestions, feel free to reach out to us at khalimovdev@mail.ru or https://t.me/ddkhalimov
+
 # Movie Booking App
 
 Welcome to the Movie Booking App project! This Flutter-based application is designed for movie ticket booking.
@@ -31,7 +34,3 @@ Feel free to customize the information according to your project's details, such
 
 Contribution
 We welcome contributions to the development of the project! If you have suggestions for improvements or bug fixes, please create a pull request.
-
-
-## Contacts 
-For questions or suggestions, feel free to reach out to us at khalimovdev@mail.ru or https://t.me/ddkhalimov
