@@ -33,5 +33,5 @@ Contribution
 We welcome contributions to the development of the project! If you have suggestions for improvements or bug fixes, please create a pull request.
 
 
-Contact
+## Contacts 
 For questions or suggestions, feel free to reach out to us at khalimovdev@mail.ru or https://t.me/ddkhalimov
