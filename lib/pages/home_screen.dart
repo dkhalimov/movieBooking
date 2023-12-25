@@ -10,6 +10,7 @@ import 'package:get/get.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:movie_booking_app/controllers/location_controller.dart';
 import 'package:movie_booking_app/controllers/shared_pref.dart';
+import 'package:movie_booking_app/pages/profile_screen.dart';
 import 'package:movie_booking_app/pages/select_lcoation_screen.dart';
 import '../controllers/auth_controller.dart';
 import '../utils/custom_slider.dart';
